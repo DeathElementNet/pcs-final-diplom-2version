@@ -1,3 +1,9 @@
 target
-*.iml
 .idea
+.gradle/
+.idea/
+build/
+target/
+*.txt
+*.csv
+*.iml
